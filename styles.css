@@ -19,9 +19,12 @@
   /* NAVBAR STYLING STARTS */
 .navbar {
     display: flex;
+    position: fixed;
+    z-index: 10000;
+    width: 100%;
     align-items: center;
     justify-content: space-between;
-    padding: 20px;
+    padding: 8px;
     background-color:black;
     color: #fff;
   }
