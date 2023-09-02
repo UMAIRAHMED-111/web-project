@@ -276,7 +276,7 @@
         .contact-us {
             background-color: #000000;
             color: white;
-            padding: 2rem 0
+            padding: 2vw;
         }
 
         .timings1 {
@@ -481,38 +481,38 @@
             .content-div {
                 background-color: #222222;
                 
-                padding:2rem 7rem;
+                padding:2rem 3rem;
                 color: white;
 
             }
 
             .icon-address {
-                width: 15%;
+                width: 13%;
                 vertical-align: middle;
-                margin-right: 13px;
+                margin-right: 10px;
             }
     
             .icon-social{
-              width: 15%;
+              width: 13%;
                 vertical-align: middle;
-                margin-right: 7px;   
+                margin-right: 10px;   
             }
             .link-tag{
-                width: 15%;
+                width: 13%;
                 vertical-align: middle;
-                margin-right: 7px; 
+                margin-right: 10px; 
                 color: white;
             }
 
             .icon {
-                width: 15%;
+                width: 13%;
                 vertical-align: middle;
-                margin-right: 7px; 
+                margin-right: 10px; 
             }
 
             .content-links{
-                padding:15px 0;
-                font-size: 17px
+                padding:12px 0;
+                font-size: 14px
             };
 
             .aboutsec{
