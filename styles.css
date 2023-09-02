@@ -373,9 +373,8 @@
 
 
 
-
         
-        @media (max-width: 768px) {
+        @media (max-width: 746px) {
             .menu {
                 display:none;
                 position: absolute;
@@ -422,7 +421,7 @@
                 /* border-radius: 5px; */
                 margin-left: -30px;
                 /* Adjust margin as needed */
-                font-size: 5vw;
+                font-size: 3vw;
                 width: fit-content;
                 opacity: 0;
                 transform: translateX(-50px);
